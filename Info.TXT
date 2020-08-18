@@ -1,1 +1,2 @@
 This is Version 1 of my Project
+This file contain all the information about my project
