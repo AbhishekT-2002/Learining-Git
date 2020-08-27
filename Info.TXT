@@ -1,2 +1,3 @@
 This is Version 1 of my Project
 This file contain all the information about my project
+A quick Brown fox jumps over a lazy dog (Aug-27-2020)
